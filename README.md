@@ -11,7 +11,7 @@ Customer acquisition costs 5–25x more than retention. This model identifies at
 ```
 ├── data/
 │   ├── raw/                  # Original competition CSVs (not committed)
-│   └── processed/            # Cleaned data, submission files
+│   └── processed/            # Cleaned data, submission files, figures
 ├── notebooks/
 │   ├── 01_eda.ipynb          # EDA & business insights
 │   └── 02_modeling.ipynb     # Preprocessing, modeling, evaluation, submission
